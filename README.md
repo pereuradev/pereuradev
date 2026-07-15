@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Pietro Pereira</h1>
+<h1 align="center">Hi, I'm Pietro Pereira 👋</h1>
+
+<p align="center">
+  <strong>Turning ideas into practical web systems through backend development and databases.</strong>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,57 +17,78 @@
 
 ## 👨‍💻 About Me
 
-- 🎂 I'm 17 years old and currently in the **3rd year of High School integrated with a Technical Degree in Information Technology**
-- 🏫 Studying at **Escola Padre Anchieta**
-- 🧑‍💼 Intern in the Technology field
-- ⚙️ Focused on **Backend Development, Databases, and Systems Development**
-- 📚 Constantly learning and improving my technical skills
+I'm an IT student and backend developer in training who enjoys transforming real operational needs into organized, useful software.
+
+- 🎓 Completing High School alongside a **Technical Degree in Information Technology**
+- 💼 Gaining professional experience as an intern in the technology field
+- ⚙️ Focused on **backend development, databases, authentication, and system architecture**
+- 🧩 Interested in building management platforms and business-oriented web applications
+- 📚 Continuously improving my skills through academic, professional, and personal projects
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **Management System**
-  - A system designed to manage and organize data using databases.
-
-- 🔹 **Web Applications**
-  - Projects developed using HTML, CSS, JavaScript, and backend integration.
-
-- 🔹 **Programming Studies**
-  - Academic and personal projects using **Java, C#, and Programming Logic**.
+| Project | What it does | Main technologies |
+|:--|:--|:--|
+| [**IT Asset Management**](https://github.com/pereuradev/gestao-de-ativos) | Corporate portal for inventory, users, permissions, locations, dashboards, and IT asset traceability. | PHP, JavaScript, PostgreSQL, Supabase |
+| [**LocalBarber**](https://github.com/pereuradev/LocalBarber) | Responsive management platform for barbershops with scheduling, clients, services, teams, and finances. | PHP, JavaScript, PostgreSQL, Supabase |
+| [**Córtex**](https://github.com/pereuradev/projeto-cortex) | Quiz platform with separate experiences for students and teachers, authentication, and quiz management. | PHP, Composer, HTML, CSS, JavaScript |
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,mysql,git,github,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=php,java,cs,js,html,css,postgres,mysql,supabase,git,github,vscode"
+    alt="PHP, Java, C Sharp, JavaScript, HTML, CSS, PostgreSQL, MySQL, Supabase, Git, GitHub and VS Code"
+  />
 </p>
+
+### Current focus
+
+- Building maintainable backend flows with **PHP and Java**
+- Designing relational databases with **PostgreSQL and MySQL**
+- Integrating authentication and cloud databases with **Supabase**
+- Improving responsive interfaces with **HTML, CSS, and JavaScript**
+- Practicing version control and collaborative workflows with **Git and GitHub**
 
 ---
 
 ## 🎓 Education
 
-- **2024 – 2026**  
-  📘 *High School integrated with a Technical Degree in Information Technology*  
-  Escola Padre Anchieta  
-
-- **2025**  
-  📗 *Oracle Programming – Java Foundations*  
-  SENAI Jundiaí  
+| Period | Program | Institution |
+|:--|:--|:--|
+| 2024 – 2026 | High School integrated with a Technical Degree in Information Technology | Escola Padre Anchieta |
+| 2025 | Oracle Programming — Java Foundations | SENAI Jundiaí |
 
 ---
 
 ## 🌎 Languages
 
-- 🇧🇷 Portuguese — Native  
-- 🇺🇸 English — Intermediate  
+- 🇧🇷 **Portuguese:** Native
+- 🇺🇸 **English:** Intermediate
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pereuradev&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereuradev&layout=compact&theme=tokyonight" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=pereuradev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Pietro's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereuradev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Pietro's most used languages"
+  />
+</p>
+
+---
+
+<p align="center">
+  <em>Always learning, building, and improving one project at a time.</em>
 </p>
