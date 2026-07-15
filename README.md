@@ -1,7 +1,12 @@
 <h1 align="center">👋 Hi, I'm Pietro Pereira</h1>
 
 <p align="center">
-🎓 IT Student | 💻 Backend Developer | 🚀 Technology Enthusiast
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&height=50&lines=%F0%9F%8E%93+IT+Student;%F0%9F%92%BB+Backend+Developer;%F0%9F%9A%80+Technology+Enthusiast"
+      alt="Typing SVG: IT Student, Backend Developer and Technology Enthusiast"
+    />
+  </a>
 </p>
 
 ---
